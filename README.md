@@ -22,6 +22,12 @@ I design and build enterprise lakehouses on Databricks, with Delta Lake, Snowfla
 
 ---
 
+### Certifications 🏆
+
+![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-FF3621?logo=databricks&logoColor=white)
+
+---
+
 ### Stack
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?logo=delta&logoColor=white) ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865)
