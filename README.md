@@ -2,7 +2,7 @@
 
 # Patrick Okare
 
-**Senior Data Engineer · Databricks · Delta Lake · Snowflake · dbt · Toronto 🇨🇦**
+**Lead Data Engineer · Databricks · Delta Lake · Snowflake · dbt · Toronto 🇨🇦**
 
 [karetech.ca](https://karetech.ca) · [Medium](https://karetech.medium.com) · [LinkedIn](https://www.linkedin.com/in/patrickokare/)
 
