@@ -14,7 +14,7 @@
 
 I design and build enterprise lakehouses on Databricks. 9+ years across financial services, healthcare and enterprise SaaS, turning high-volume transactional, ERP and event data into governed, well-modeled data products. I work test-first: automated data quality checks, reconciliation controls and CI/CD with GitHub Actions and Liquibase.
 
-📊 Led a Synapse-to-Databricks migration of 1.45B+ historical records onto a Unity Catalog medallion architecture
+📊 Led Synapse-to-Databricks migrations of financial data marts (2B–9B records), consolidating two production Synapse warehouses into a single Unity Catalog medallion architecture
 
 ⚡ Cut an 800M+ row workload from over an hour to 7–14 minutes with Spark parallelization
 
