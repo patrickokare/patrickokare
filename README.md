@@ -20,6 +20,10 @@ I design and build enterprise lakehouses on Databricks. 9+ years across financia
 
 ✅ Replaced 40–45 hours a week of manual reconciliation with automated data quality checks
 
+🔭 Currently: leading enterprise lakehouse delivery on Databricks, building out my portfolio (Formula 1, UK rail, video game sales) and preparing for the Databricks Data Engineer Professional exam
+
+🤝 Open to: Senior and Lead Data Engineer or Data Platform roles, and remote data engineering contracts through KareTech Analytics
+
 💬 Ask me about Databricks, Delta Lake, Kimball modeling, Lakeflow pipelines and warehouse migrations
 
 🔗 Consulting: [KareTech Analytics](https://karetech.ca) · Writing: [Medium](https://karetech.medium.com)
@@ -39,6 +43,21 @@ I design and build enterprise lakehouses on Databricks. 9+ years across financia
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?logo=delta&logoColor=white) ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
 Unity Catalog · Lakeflow Declarative Pipelines · Auto Loader · AUTO CDC · Azure Data Factory · Liquibase · Kimball dimensional modeling · Medallion architecture
+
+---
+
+### Featured: Helios Trading Lakehouse
+
+Ten daily feeds from six depots (JSON, CSV, Parquet) through a medallion lakehouse on Unity Catalog. Auto Loader into Bronze, deduplication, CDC and SCD Type 2 in Silver, a Kimball star schema in Gold, then Metric Views, Genie and a Lakebase-backed operations app. Code and design docs: [databricks-dataml](https://github.com/patrickokare/databricks-dataml)
+
+```mermaid
+flowchart LR
+    A["Landing<br/>10 feeds, 6 depots<br/>JSON, CSV, Parquet"] -->|Auto Loader| B["Bronze<br/>raw, append-only"]
+    B -->|"foreachBatch MERGE<br/>dedupe, CDC, SCD2"| C["Silver<br/>typed and conformed<br/>quarantine, never dropped"]
+    C -->|"point-in-time pricing"| D["Gold<br/>Kimball star schema"]
+    D --> E["Metric Views<br/>Dashboards, Genie"]
+    D --> F["Lakebase<br/>Operations app"]
+```
 
 ---
 
