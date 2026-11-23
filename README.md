@@ -62,7 +62,7 @@ Unity Catalog · Lakeflow Declarative Pipelines · Auto Loader · AUTO CDC · Az
 
 Ten daily feeds from six depots (JSON, CSV, Parquet) through a medallion lakehouse on Unity Catalog. Auto Loader into Bronze, deduplication, CDC and SCD Type 2 in Silver, a Kimball star schema in Gold, then Metric Views, Genie and a Lakebase-backed operations app. Code and design docs: [databricks-dataml](https://github.com/patrickokare/databricks-dataml)
 
-<p align="center"><img src="assets/helios-architecture.svg" alt="Helios Trading Lakehouse solution architecture: six depots and ten daily feeds land in a landing zone, flow through Bronze, Silver and Gold on Databricks with Unity Catalog, and serve Metric Views, Genie and a Lakebase operations app" width="100%"></p>
+<p align="center"><img src="assets/helios-architecture.svg?v=2" alt="Helios Trading Lakehouse solution architecture: six depots and ten daily feeds land in a landing zone, flow through Bronze, Silver and Gold on Databricks with Unity Catalog, and serve Metric Views, Genie and a Lakebase operations app" width="100%"></p>
 
 ---
 
