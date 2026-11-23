@@ -12,25 +12,33 @@
 
 ### Who I am
 
-I design and build enterprise lakehouses on Databricks. 9+ years across financial services, healthcare and enterprise SaaS, turning high-volume transactional, ERP and event data into governed, well-modeled data products.
+I design and build enterprise lakehouses on Databricks. Nine-plus years across financial services, healthcare and enterprise SaaS, turning high-volume transactional, ERP and event data into governed, well-modeled data products.
 
-I work test-first, so data is proven correct before anyone depends on it:
+<div align="center">
 
-- **Data quality as code:** automated checks for nulls, duplicates, referential integrity and row counts run with every load, so bad data fails the pipeline instead of reaching a dashboard.
-- **Reconciliation controls:** source-to-target checks on row counts and financial totals, used to validate 2B–9B record migrations before cutover.
-- **Versioned, tested delivery:** schema changes managed in Liquibase and promoted through GitHub Actions CI/CD, so every change is reviewed, repeatable and reversible.
+| **2B–9B records** | **1 hr+ → 7–14 min** | **40–45 hrs / week** |
+|:---:|:---:|:---:|
+| in the financial data marts I migrated to Databricks | on an 800M+ row workload, using Spark parallelization | of manual reconciliation replaced by automated checks |
 
-📊 Led Synapse-to-Databricks migrations of financial data marts (2B–9B records), consolidating two production Synapse warehouses into a single Unity Catalog medallion architecture
+</div>
 
-⚡ Cut an 800M+ row workload from over an hour to 7–14 minutes with Spark parallelization
+**Selected work:** led Synapse-to-Databricks migrations of financial data marts, consolidating two production Synapse warehouses into a single Unity Catalog medallion architecture.
 
-✅ Replaced 40–45 hours a week of manual reconciliation with automated data quality checks
+#### How I work: test-first
 
-🔭 Currently: leading enterprise lakehouse delivery on Databricks, building out my portfolio (Formula 1, UK rail, video game sales) and preparing for the Databricks Data Engineer Professional exam
+Data is proven correct before anyone depends on it.
 
-🤝 Open to: Senior and Lead Data Engineer or Data Platform roles, and remote data engineering contracts through KareTech Analytics
+| Data quality as code | Reconciliation controls | Versioned, tested delivery |
+|:---|:---|:---|
+| Automated checks for nulls, duplicates, referential integrity and row counts run with every load, so bad data fails the pipeline instead of reaching a dashboard. | Source-to-target checks on row counts and financial totals validate 2B–9B record migrations before cutover. | Schema changes are managed in Liquibase and promoted through GitHub Actions CI/CD, so every change is reviewed, repeatable and reversible. |
 
-💬 Ask me about Databricks, Delta Lake, Kimball modeling, Lakeflow pipelines and warehouse migrations
+#### Right now
+
+| | |
+|:---|:---|
+| **Currently** | Leading enterprise lakehouse delivery on Databricks, building out my portfolio (Formula 1, UK rail, video game sales) and preparing for the Databricks Data Engineer Professional exam |
+| **Open to** | Senior and Lead Data Engineer or Data Platform roles, and remote data engineering contracts through [KareTech Analytics](https://karetech.ca) |
+| **Ask me about** | Databricks, Delta Lake, Kimball modeling, Lakeflow pipelines and warehouse migrations |
 
 🔗 Consulting: [KareTech Analytics](https://karetech.ca) · Writing: [Medium](https://karetech.medium.com)
 
