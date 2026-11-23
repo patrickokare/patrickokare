@@ -12,7 +12,7 @@
 
 ### Who I am
 
-I design and build enterprise lakehouses on Databricks. Nine-plus years across financial services, healthcare and enterprise SaaS, turning high-volume transactional, ERP and event data into governed, well-modeled data products.
+I design and build enterprise lakehouses on Databricks. Ten-plus years across financial services, healthcare and enterprise SaaS, turning high-volume transactional, ERP and event data into governed, well-modeled data products.
 
 <div align="center">
 
