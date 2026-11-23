@@ -34,11 +34,9 @@ Data is proven correct before anyone depends on it.
 
 #### Right now
 
-| | |
-|:---|:---|
-| **Currently** | Leading enterprise lakehouse delivery on Databricks, building out my portfolio (Formula 1, UK rail, video game sales) and preparing for the Databricks Data Engineer Professional exam |
-| **Open to** | Senior and Lead Data Engineer or Data Platform roles, and remote data engineering contracts through [KareTech Analytics](https://karetech.ca) |
-| **Ask me about** | Databricks, Delta Lake, Kimball modeling, Lakeflow pipelines and warehouse migrations |
+- **Currently:** leading enterprise lakehouse delivery on Databricks, building out my portfolio (Formula 1, UK rail, video game sales) and preparing for the Databricks Data Engineer Professional exam
+- **Open to:** Senior and Lead Data Engineer or Data Platform roles, and remote data engineering contracts through [KareTech Analytics](https://karetech.ca)
+- **Ask me about:** Databricks, Delta Lake, Kimball modeling, Lakeflow pipelines and warehouse migrations
 
 🔗 Consulting: [KareTech Analytics](https://karetech.ca) · Writing: [Medium](https://karetech.medium.com)
 
