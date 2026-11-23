@@ -12,7 +12,13 @@
 
 ### Who I am
 
-I design and build enterprise lakehouses on Databricks. 9+ years across financial services, healthcare and enterprise SaaS, turning high-volume transactional, ERP and event data into governed, well-modeled data products. I work test-first: automated data quality checks, reconciliation controls and CI/CD with GitHub Actions and Liquibase.
+I design and build enterprise lakehouses on Databricks. 9+ years across financial services, healthcare and enterprise SaaS, turning high-volume transactional, ERP and event data into governed, well-modeled data products.
+
+I work test-first, so data is proven correct before anyone depends on it:
+
+- **Data quality as code:** automated checks for nulls, duplicates, referential integrity and row counts run with every load, so bad data fails the pipeline instead of reaching a dashboard.
+- **Reconciliation controls:** source-to-target checks on row counts and financial totals, used to validate 2B–9B record migrations before cutover.
+- **Versioned, tested delivery:** schema changes managed in Liquibase and promoted through GitHub Actions CI/CD, so every change is reviewed, repeatable and reversible.
 
 📊 Led Synapse-to-Databricks migrations of financial data marts (2B–9B records), consolidating two production Synapse warehouses into a single Unity Catalog medallion architecture
 
