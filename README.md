@@ -12,30 +12,19 @@
 
 ### Who I am
 
-I design and build enterprise lakehouses on Databricks. Ten-plus years across financial services, healthcare and enterprise SaaS, turning high-volume transactional, ERP and event data into governed, well-modeled data products.
+Lead Data Engineer with **10+ years** across financial services, healthcare and enterprise SaaS. I turn high-volume transactional, ERP and event data into governed, well-modeled data products on Databricks, and I prove the data correct before anyone depends on it.
 
 <div align="center">
 
 | **2B–9B records** | **1 hr+ → 7–14 min** | **40–45 hrs / week** |
 |:---:|:---:|:---:|
-| in the financial data marts I migrated to Databricks | on an 800M+ row workload, using Spark parallelization | of manual reconciliation replaced by automated checks |
+| migrated from Synapse to Databricks (Unity Catalog medallion) | on an 800M+ row workload, using Spark parallelization | of manual reconciliation replaced by automated checks |
 
 </div>
 
-**Selected work:** led Synapse-to-Databricks migrations of financial data marts, consolidating two production Synapse warehouses into a single Unity Catalog medallion architecture.
+**How I work:** data quality checks and source-to-target reconciliation on every load, with schema changes versioned in Liquibase and promoted through GitHub Actions CI/CD.
 
-#### How I work: test-first
-
-Data is proven correct before anyone depends on it.
-
-| Data quality as code | Reconciliation controls | Versioned, tested delivery |
-|:---|:---|:---|
-| Automated checks for nulls, duplicates, referential integrity and row counts run with every load, so bad data fails the pipeline instead of reaching a dashboard. | Source-to-target checks on row counts and financial totals validate 2B–9B record migrations before cutover. | Schema changes are managed in Liquibase and promoted through GitHub Actions CI/CD, so every change is reviewed, repeatable and reversible. |
-
-#### Right now
-
-- **Currently:** leading enterprise lakehouse delivery on Databricks, building out my portfolio (Formula 1, UK rail, video game sales) and preparing for the Databricks Data Engineer Professional exam
-- **Open to:** Senior and Lead Data Engineer or Data Platform roles, and remote data engineering contracts through [KareTech Analytics](https://karetech.ca)
+- **Open to:** Senior and Lead Data Engineer or Data Platform roles, and contracts through [KareTech Analytics](https://karetech.ca)
 - **Ask me about:** Databricks, Delta Lake, Kimball modeling, Lakeflow pipelines and warehouse migrations
 
 🔗 Consulting: [KareTech Analytics](https://karetech.ca) · Writing: [Medium](https://karetech.medium.com)
