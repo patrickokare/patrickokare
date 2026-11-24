@@ -43,7 +43,7 @@ Lead Data Engineer with **10+ years** across financial services, healthcare and 
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?logo=delta&logoColor=white) ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
-Unity Catalog · Lakeflow Declarative Pipelines · Auto Loader · AUTO CDC · Azure Data Factory · Liquibase · Kimball dimensional modeling · Medallion architecture
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?logo=databricks&logoColor=white) ![Lakeflow](https://img.shields.io/badge/Lakeflow_Declarative_Pipelines-FF3621?logo=databricks&logoColor=white) ![Auto Loader](https://img.shields.io/badge/Auto_Loader-00ADD4?logo=delta&logoColor=white) ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?logo=microsoftazure&logoColor=white) ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?logo=liquibase&logoColor=white) ![Kimball](https://img.shields.io/badge/Kimball_Modeling-117865) ![Medallion](https://img.shields.io/badge/Medallion_Architecture-6E5494)
 
 ---
 
