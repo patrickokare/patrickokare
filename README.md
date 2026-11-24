@@ -35,7 +35,7 @@ Lead Data Engineer with **10+ years** across financial services, healthcare and 
 
 ![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-FF3621?logo=databricks&logoColor=white) ![Azure Data Engineer Associate DP-203](https://img.shields.io/badge/Microsoft-Azure_Data_Engineer_Associate_DP--203-0078D4?logo=microsoftazure&logoColor=white) ![Fabric Data Warehouse Applied Skills](https://img.shields.io/badge/Microsoft-Applied_Skills_Fabric_Data_Warehouse-117865) ![Azure Data Fundamentals DP-900](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals_DP--900-0078D4?logo=microsoftazure&logoColor=white)
 
-🏅 [Data Innovation Excellence Award, Dratech (2024)](https://dratech.org/patrick-okare-named-winner-of-the-dratech-data-innovation-excellence-award-2024/) · [Most Outstanding Data Engineering Professional of the Year, NITA (2021)](https://www.nigeriatechnologyawards.com/winners/individual-directory/)
+[![Data Innovation Excellence Award, Dratech 2024](https://img.shields.io/badge/🏅_Award-Data_Innovation_Excellence,_Dratech_(2024)-C9A227)](https://dratech.org/patrick-okare-named-winner-of-the-dratech-data-innovation-excellence-award-2024/) [![Most Outstanding Data Engineering Professional of the Year, NITA 2021](https://img.shields.io/badge/🏅_Award-Data_Engineering_Professional_of_the_Year,_NITA_(2021)-C9A227)](https://www.nigeriatechnologyawards.com/winners/individual-directory/)
 
 ---
 
