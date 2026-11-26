@@ -29,7 +29,6 @@ Lead Data Engineer with **10+ years** across financial services, healthcare and 
 - **Metadata-driven data platform:** configuration-driven ingestion, reusable pipelines, incremental processing, audit logging and data quality
 - **Lakehouse interoperability:** Delta Lake and Apache Iceberg, with streaming, CDC and schema evolution
 - **Platform observability:** pipeline health, data quality metrics, freshness and failure analysis from Databricks System Tables
-- **AI data infrastructure:** document ingestion, vector search and RAG, with evaluation and governance
 
 **Right now:**
 
